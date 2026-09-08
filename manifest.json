@@ -3,13 +3,14 @@
   "description": "Excel Ustası: 96 ders, canlı formül atölyesi, sorun rehberi ve gerçek projelerle Türkçe Excel öğrenme uygulaması.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "excel Ustası",
+  "name": "Excel Ustası",
   "orientation": "any",
-  "scope": "/",
-  "short_name": "fatih3447",
-  "start_url": "/",
+  "scope": "/excel/",
+  "short_name": "ExcelUstası",
+  "start_url": "/excel/",
   "theme_color": "#102e26",
   "categories": [
-    "education"
+    "education",
+    "productivity"
   ]
 }
